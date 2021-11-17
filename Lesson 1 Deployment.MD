@@ -84,7 +84,7 @@ command -v nvm
 ```
 nvm install 12
 ```
-- lastly this command again to verify you have version 12:
+- lastly run the following command again to verify you have node version 12 installed:
 - Node:
 ```
 node -v
