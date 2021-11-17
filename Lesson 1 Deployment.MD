@@ -94,6 +94,7 @@ node -v
 `v12.?.?` (the minor versions don't matter)
 
 **⬇ skip to here if you have version 12.?.? of node**
+
 npm:
 ```
 npm -v
