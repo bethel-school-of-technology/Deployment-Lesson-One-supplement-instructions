@@ -62,7 +62,7 @@ node -v
 ```
 > IMPORTANT NOTE: If you verify you have version 12 SKIP PAST THIS PART, if you run the node -v command and the version shows any version other than versions 12.?.? (minor versions don't matter) then you npm install commad at the end will throw errors.  You must use node version 12.
 
-- If it installs a higher version between of node between `14.?.? - 16.?.?` then you can use `nvm` to switch node versions back down to `12`. 
+- If it installs a higher version of node between `14.?.? - 16.?.?` then you will need to use `nvm` to switch node versions back down to `12`. 
 
 
 
@@ -186,3 +186,6 @@ Copy and paste this value into the browser and append `:8080` at the end. For ex
 *You've successfully launched a web application on EC2. Remember to shut down your database and stop the server if you're finished.*
 
 *That's it! You've learned a lot in this lesson, so be sure to practice by launching another EC2 instance. By the end of this course, you should understand how to create a new EC2 instance with confidence.*
+
+
+#### Please reach out to yuo mentors if you need help. 
