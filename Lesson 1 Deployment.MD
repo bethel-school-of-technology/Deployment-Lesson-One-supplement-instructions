@@ -93,13 +93,11 @@ node -v
 - You should see the output of 
 `v12.?.?` (the minor versions don't matter)
 
-**⬇ skip to here is you have version 12.?.? of node**
+**⬇ skip to here if you have version 12.?.? of node**
 npm:
 ```
 npm -v
 ```
-
-
 
 Once verified, run the following command to install the dependencies that the web application needs to run:
 
